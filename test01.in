@@ -1,0 +1,13 @@
+insert 10
+insert 4
+insert 3
+insert 15
+insert 12
+insert 20
+insert 7 
+insert 8 
+insert 14 
+insert 11 
+print_ascii
+height
+quit
